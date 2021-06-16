@@ -1,4 +1,5 @@
 <h1 align="center">NFS INJECTOR-BY K1ks</h1>
+<h1 align="center">MAGISK MODULE MOD-BY Randywahidin</H1>
 <p align="center">
 </p>
 
@@ -79,6 +80,7 @@ All NFS Members , without Their Help , NFS wouldn't be great
 
 ## Credits 
 - NFS Lead Developer - [K1ks](https://t.me/K1ks1)
+- magisk module mod delevoper - [Rendywahidin](https://t.me/Randywahidin)
 - Lead Developer Helper - [Hafiz](https://t.me/HafizZiq)
 - Graphic Designer - [xLidz](https://t.me/xlidz)
 - NFS Manager - [Sunil Paul Mathew M.](https://t.me/sunilpaulmathew)
