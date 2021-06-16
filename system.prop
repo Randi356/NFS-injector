@@ -1,0 +1,18 @@
+#========================================
+# NFS-INJECTOR
+# Developer : @K1ks
+#========================================
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+#========================================
+wifi.supplicant_scan_interval=180
+debug.atrace.tags.enableflags=0
+debugtool.anrhistory=0
+ro.config.nocheckin=1
+ro.kernel.android.checkjni=0
+ro.debuggable=1
+dalvik.vm.checkjni=false
+profiler.debugmonitor=false
+profiler.launch=false
+profiler.hung.dumpdobugreport=false
