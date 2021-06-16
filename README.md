@@ -39,8 +39,8 @@ This Module is Universal , It works on all OS with all kernels (EAS/HMP), Except
 ## Supporter Suggestions
 All NFS Members , without Their Help , NFS wouldn't be great 
 
-## Downloads
-[Google Drive](https://drive.google.com/open?id=1GZpVYxd1OyS0PyVBXHyOCjPhI-YnLi8x)
+
+
 
 ## List devices are tested and run with NFS Injector™ Beta :
 
