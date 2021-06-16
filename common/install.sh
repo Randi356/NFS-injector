@@ -46,6 +46,8 @@ ui_print "* Official Telegram Group @nfsinjector *"
 ui_print "" 
 ui_print "* By K1KS & Team *"
 ui_print ""
+ui_print "* By Randywahidin & magisk Template
+ui_print ""
 ui_print "* Unique ID : $UID *"
 ui_print ""
 }
